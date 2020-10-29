@@ -1,0 +1,136 @@
+body{
+    background-color: #292929;
+    font-family: 'nerd','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    padding: 5px;
+    background-color: white;
+    width: max-content;
+    border: black medium solid;
+    font-size: 35px;
+}
+
+h3{
+    color: white;
+    font-size: 35px;
+    font-style: bold;
+} 
+
+p{
+    color: white;
+    font-size: 30px;
+}
+
+a{
+    color: white;
+}
+
+ul{
+    color: white;
+    font-size: 30px;
+}
+
+.center {
+    margin: auto;
+    text-align: center;
+    width: 50vw;
+  }
+
+.photo_me{
+    width: 270px;
+    height: 480px;
+    background-color: white;
+    padding: 15px;
+    border: black medium solid;
+    position: relative;
+    left: 60vw;
+    
+}
+
+#links{
+    font-size: 50px;
+}
+
+i{
+    size: 20px;
+}
+
+#title{
+    padding: 200px;
+    padding-right: 25vw;
+    padding-left: 25vw;
+    font-size: 70px;
+    margin: 0px;
+}
+
+#about-me{
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 50vw;
+}
+
+#voidbox-title{
+    color: #33cc33;
+}
+
+#voidbox-body{
+    color: white;
+    font-size: 30px;
+}
+
+#fwf-title{
+    color: #1f8e60;
+}
+
+#byteme20-title{
+    color: #db7425;
+}
+
+#byteme-title{
+    color: #255edb;
+}
+#void-image{
+    width: 40vw;
+    height: 300px;
+    position: relative;
+    bottom: 300px;
+    left: 50vw;
+}
+
+.project{
+    border: white thick solid;
+    padding: 15px;
+    width: 40vw;
+    height: min-content;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+#languages{
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+    width: 50vw;
+    font-size: 60px;
+}
+
+#languages-text{
+    font-size: 20px;
+}
+
+#contact{
+    color: black;
+    font-size: 30px;
+    border: black medium solid;
+    background-color: white;
+    width: 40vw;
+}
