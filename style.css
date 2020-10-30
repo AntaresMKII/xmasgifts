@@ -7,12 +7,16 @@ h1{
     color: white;
 }
 
-h2{
+li{
     padding: 5px;
     background-color: white;
     width: max-content;
     border: black medium solid;
-    font-size: 35px;
+    text-align: center;
+    font-size: 30px;
+    margin: auto;
+    margin-top: 10px;
+    color: black;
 }
 
 h3{
@@ -27,13 +31,9 @@ p{
 }
 
 a{
-    color: white;
+    color: black;
 }
 
-ul{
-    color: white;
-    font-size: 30px;
-}
 
 .center {
     margin: auto;
@@ -133,4 +133,8 @@ i{
     border: black medium solid;
     background-color: white;
     width: 40vw;
+}
+
+ol{
+    color: white;
 }
